@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types e
   - Performance tuning
-  - Migrations
-  - Schema versioning
+  - Migrations u
+  - Schema versioning k
   - Backup and recovery
   - Database scalability
   - Relational databases
-  - Key-value store
+  - Key-value store u
   - Tuple store
   - Graph databases
-  - Object databases
+  - Object databases u
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -20,7 +20,7 @@
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Data query language (DQL) u
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
@@ -70,20 +70,20 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
+  - PostgreSQL h
   - Oracle
-  - MySQL
-  - MariaDB
+  - MySQL h
+  - MariaDB h
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB u
   - Memcached
   - Riak
   - DB2
   - SQLite
   - DynamoDB
-  - Firebase
+  - Firebase u
 - Data engineering
   - Data warehousing
   - Business intelligence
