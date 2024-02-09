@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types: 🙋 explained
   - Performance tuning
-  - Migrations
-  - Schema versioning
+  - Migrations: 🖐️ used
+  - Schema versioning: 🎓 known
   - Backup and recovery
   - Database scalability
   - Relational databases
-  - Key-value store
+  - Key-value store: 🖐️ used
   - Tuple store
   - Graph databases
-  - Object databases
+  - Object databases: 🖐️ used
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -20,7 +20,7 @@
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Data query language (DQL): 🖐️ used
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
@@ -70,20 +70,20 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
+  - PostgreSQL: 👂 heard
   - Oracle
-  - MySQL
-  - MariaDB
+  - MySQL: 👂 heard
+  - MariaDB: 👂 heard
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB: 🖐️ used
   - Memcached
   - Riak
   - DB2
   - SQLite
   - DynamoDB
-  - Firebase
+  - Firebase: 🖐️ used
 - Data engineering
   - Data warehousing
   - Business intelligence
